@@ -1,0 +1,10 @@
+#Print a sentence
+print ("Hello. Welcome to the world of coding")
+#Print a number
+print ("9")
+#Next line after print
+print ("Hello python \n")
+#Pass multiple arguments for printing
+print ("Hello",5)
+#End argument of print statement
+print("Wecome to Python", end= "*")
