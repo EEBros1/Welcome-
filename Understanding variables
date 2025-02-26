@@ -1,0 +1,11 @@
+#Creating different variables
+Name = "Hey you !"
+print (Name)
+#User name input
+Name = input ("Enter your name.")
+print ("\nHello", Name, "\nWelcome to the coding world. You are in one of it's platforms. This platform is named Python.")
+Age = "Hey !"
+print (Age)
+#User age input
+Age = input ("Enter your age.")
+print ("\n Hello", Name, "\nYour age is ", Age)
